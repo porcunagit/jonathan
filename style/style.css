@@ -16,13 +16,14 @@ main{
 header{
     text-align: center;
     background-color: bisque;
-    padding-bottom: 10px;
+    padding-bottom: 100px;
 }
 section{
     display: flex;
     justify-content: center;
     height: 500px;
     background-color: lightcyan;
+    padding-top: 120px;
     
 
 }
@@ -37,4 +38,5 @@ footer{
     display: flex;
     justify-content: right;
     background-color: bisque;
+    padding: 100px;
 }
